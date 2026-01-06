@@ -64,8 +64,8 @@ Project ini dibuat untuk:
    pip install notebook
 
 Jalankan Jupyter Notebook:
- ```bash
-   jupyter notebook
+jupyter notebook
+
 
 
 

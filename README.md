@@ -20,40 +20,50 @@
 - Google Colab
 - Matplotlib & Seaborn
 
-# Praktikum 6 - Jupyter Notebook
+# Praktikum 6-7
+# Praktikum Python - Jupyter Notebook
 
-Repository ini berisi file praktikum ke-6 yang dibuat menggunakan **Jupyter Notebook** sebagai bagian dari tugas pembelajaran.
+Repository ini berisi kumpulan file **praktikum Python** yang dikerjakan menggunakan **Jupyter Notebook** sebagai bagian dari tugas pembelajaran.
 
 ## 📌 Deskripsi
-Project ini bertujuan untuk:
-- Mempelajari konsep yang dibahas pada Praktikum 6
-- Mengimplementasikan materi menggunakan Python di Jupyter Notebook
-- Menyelesaikan tugas sesuai instruksi praktikum
+Project ini dibuat untuk:
+- Mengerjakan tugas praktikum Python
+- Memahami konsep pemrograman melalui implementasi langsung
+- Mendokumentasikan hasil praktikum dalam bentuk notebook
 
-## 📂 Struktur File
+## 📂 Daftar File
 .
 ├── dedesyifasifriani_praktikum6.ipynb
+├── dedesyifasifriani_praktikum7.ipynb
 └── README.md
 
+## 📘 Detail Praktikum
+### 🔹 Praktikum 6
+- Materi: (sesuaikan dengan materi praktikum 6)
+- Output: Analisis dan implementasi dalam Jupyter Notebook
 
-## 🛠️ Teknologi yang Digunakan
+### 🔹 Praktikum 7
+- Materi: (sesuaikan dengan materi praktikum 7)
+- Output: Implementasi lanjutan menggunakan Python
+
+## 🛠️ Tools & Teknologi
 - Python 3
 - Jupyter Notebook
-- Library Python (sesuai isi notebook)
+- Library Python (sesuai kebutuhan praktikum)
 
-## 🚀 Cara Menjalankan
-1. Pastikan Python sudah terinstall
-2. Install Jupyter Notebook jika belum:
+## 🚀 Cara Menjalankan Project
+1. Install Python 3
+2. Install Jupyter Notebook:
    ```bash
    pip install notebook
-
 
 Jalankan Jupyter Notebook:
 jupyter notebook
 
-
-Buka file:
+Buka file notebook yang ingin dijalankan:
 📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)
+📄 [Praktikum 7](312310372_dedesyifasifriani_praktikum7.ipynb)
+
 
 
 📝 Catatan
@@ -64,7 +74,7 @@ Silakan gunakan sebagai referensi, bukan untuk plagiarisme
 
 👩‍💻 Author
 
-Syifa Inairfis
+Dede Syifa Sifriani
 Mahasiswa / Pelajar
 
 

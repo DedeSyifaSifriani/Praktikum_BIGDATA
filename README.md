@@ -37,6 +37,9 @@ Project ini dibuat untuk:
 ├── dedesyifasifriani_praktikum7.ipynb
 └── README.md
 
+
+
+
 ## 📘 Detail Praktikum
 ### 🔹 Praktikum 6
 - Materi: (sesuaikan dengan materi praktikum 6)
@@ -58,10 +61,13 @@ Project ini dibuat untuk:
    pip install notebook
 
 Jalankan Jupyter Notebook:
+ ```bash
 jupyter notebook
 
 Buka file notebook yang ingin dijalankan:
 📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)
+
+
 📄 [Praktikum 7](312310372_dedesyifasifriani_praktikum7.ipynb)
 
 

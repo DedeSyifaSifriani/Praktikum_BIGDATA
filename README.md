@@ -34,7 +34,9 @@ Project ini dibuat untuk:
 ## 📂 Daftar File
 .
 ├── dedesyifasifriani_praktikum6.ipynb
+
 ├── dedesyifasifriani_praktikum7.ipynb
+
 └── README.md
 
 
@@ -63,7 +65,7 @@ Project ini dibuat untuk:
 
 Jalankan Jupyter Notebook:
  ```bash
-jupyter notebook
+   jupyter notebook
 
 
 

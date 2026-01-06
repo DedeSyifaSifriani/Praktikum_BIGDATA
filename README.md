@@ -11,7 +11,7 @@
 ## 📚 Daftar Praktikum
 
 ### Praktikum 5: Analisis Statistik Deskriptif dengan PySpark
-- **File:** [](./praktikum5/)
+- **File:** [312310372_dedesyifasifriani_praktikum5.ipynb](./Praktikum_BIGDATA/)
 - **Topik:** 
   - Statistik Deskriptif (Mean, Median, Mode, Variance)
   - Analisis Distribusi Data

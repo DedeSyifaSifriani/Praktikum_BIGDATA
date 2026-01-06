@@ -63,15 +63,14 @@ Project ini dibuat untuk:
    ```bash
    pip install notebook
 
-  3.Jalankan Jupyter Notebook:
-    ```bash
-    jupyter notebook
+Jalankan Jupyter Notebook:
+
+jupyter notebook
 
 
+Buka file notebook sesuai praktikum:
 
 
-
-4.Buka file notebook yang ingin dijalankan:
 📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)
 
 

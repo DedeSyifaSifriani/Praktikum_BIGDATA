@@ -49,8 +49,8 @@ Project ini bertujuan untuk:
 
 
 Jalankan Jupyter Notebook:
-
 jupyter notebook
+
 
 Buka file:
 📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)

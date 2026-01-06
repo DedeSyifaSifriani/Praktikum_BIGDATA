@@ -32,7 +32,7 @@ Project ini dibuat untuk:
 - Mendokumentasikan hasil praktikum dalam bentuk notebook
 
 ## 📂 Daftar File
-.
+
 ├── dedesyifasifriani_praktikum6.ipynb
 
 ├── dedesyifasifriani_praktikum7.ipynb
@@ -64,13 +64,14 @@ Project ini dibuat untuk:
    pip install notebook
 
 Jalankan Jupyter Notebook:
-jupyter notebook
+    ```bash
+   jupyter notebook
 
 
 
 
 
-Buka file notebook yang ingin dijalankan:
+3.Buka file notebook yang ingin dijalankan:
 📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)
 
 

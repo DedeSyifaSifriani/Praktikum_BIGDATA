@@ -40,6 +40,7 @@ Project ini dibuat untuk:
 
 
 
+
 ## 📘 Detail Praktikum
 ### 🔹 Praktikum 6
 - Materi: (sesuaikan dengan materi praktikum 6)
@@ -63,6 +64,9 @@ Project ini dibuat untuk:
 Jalankan Jupyter Notebook:
  ```bash
 jupyter notebook
+
+
+
 
 Buka file notebook yang ingin dijalankan:
 📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)

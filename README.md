@@ -5,13 +5,7 @@
 ## 📚 Daftar Praktikum
 
 ### Praktikum 5: Analisis Statistik Deskriptif dengan PySpark
-- **File:** [# Praktikum Big Data Analytics
-**Universitas Pelita Bangsa - Teknik Informatika**
-
-## 📚 Daftar Praktikum
-
-### Praktikum 5: Analisis Statistik Deskriptif dengan PySpark
-📄 [Praktikum 1](312310372_dedesyifasifriani_praktikum5.ipynb)
+📄 [Praktikum 5](312310372_dedesyifasifriani_praktikum5.ipynb)
 
 
 - **Topik:** 
@@ -26,26 +20,52 @@
 - Google Colab
 - Matplotlib & Seaborn
 
-## 👥 Anggota Kelompok
-- Dede Syifa Sifriani (312310372)
-- Nadia Permata Putri (312310432)
+# Praktikum 6 - Jupyter Notebook
 
-## 📄 Lisensi
-Universitas Pelita Bangsa © 2026](./praktikum5/)
-- **Topik:** 
-  - Statistik Deskriptif (Mean, Median, Mode, Variance)
-  - Analisis Distribusi Data
-  - Visualisasi dengan Histogram & Box Plot
-- **Dataset:** Diamonds (Seaborn)
+Repository ini berisi file praktikum ke-6 yang dibuat menggunakan **Jupyter Notebook** sebagai bagian dari tugas pembelajaran.
 
-## 🛠️ Tools & Technologies
-- Python 3.x
-- PySpark
-- Google Colab
-- Matplotlib & Seaborn
+## 📌 Deskripsi
+Project ini bertujuan untuk:
+- Mempelajari konsep yang dibahas pada Praktikum 6
+- Mengimplementasikan materi menggunakan Python di Jupyter Notebook
+- Menyelesaikan tugas sesuai instruksi praktikum
 
-## 👥 Anggota
-- Dede Syifa Sifriani (312310372)
+## 📂 Struktur File
+.
+├── dedesyifasifriani_praktikum6.ipynb
+└── README.md
+
+
+## 🛠️ Teknologi yang Digunakan
+- Python 3
+- Jupyter Notebook
+- Library Python (sesuai isi notebook)
+
+## 🚀 Cara Menjalankan
+1. Pastikan Python sudah terinstall
+2. Install Jupyter Notebook jika belum:
+   ```bash
+   pip install notebook
+
+
+Jalankan Jupyter Notebook:
+
+jupyter notebook
+
+Buka file:
+📄 [Praktikum 6](312310372_dedesyifasifriani_praktikum6.ipynb)
+
+
+📝 Catatan
+
+Notebook ini dibuat untuk keperluan pembelajaran
+
+Silakan gunakan sebagai referensi, bukan untuk plagiarisme
+
+👩‍💻 Author
+
+Syifa Inairfis
+Mahasiswa / Pelajar
 
 
 ## 📄 Lisensi

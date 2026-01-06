@@ -63,7 +63,7 @@ Project ini dibuat untuk:
    ```bash
    pip install notebook
 
-3.Jalankan Jupyter Notebook:
+  3.Jalankan Jupyter Notebook:
     ```bash
     jupyter notebook
 
